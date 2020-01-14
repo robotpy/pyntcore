@@ -49,5 +49,4 @@ install_requires = [
 ]
 
 [tool.robotpy-build.macos_lib_locations]
-"libntcore.dylib" = "_pyntcore/lib/libntcore.dylib"
 "libwpiutil.dylib" = "wpiutil/lib/libwpiutil.dylib"
